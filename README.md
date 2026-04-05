@@ -1,12 +1,31 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
+
 <br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+tea+%3A);game+dev+<3;making+a+metroidvania...;i+use+arch+btw" />
 </p>
+
 <br>
+
+<p align="center">
+  😸 im stiyhood — call me tea<br>
+  👾 i make/play/love games<br>
+  🌙 currently building a metroidvania
+</p>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
+
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
+
+<br>
+
 ## 🖥️ langs & tools
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/c-1A1B27?style=for-the-badge&logo=c&logoColor=CBA6F7" />
@@ -50,3 +69,7 @@
 <img src="https://img.shields.io/badge/jest-1A1B27?style=for-the-badge&logo=jest&logoColor=CBA6F7" />
 
 </p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
