@@ -1,9 +1,9 @@
 # 😻 hi!
 😸 im stiyhood — call me tea  
 👾 making a 2d metroidvania  
-
-![stats](https://github-readme-stats.vercel.app/api?username=stiyhood&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi+i'm+tea+%3A);game+dev+%2F%2F+low+level;making+a+metroidvania..." />
+</p>
 ## 🖥️ langs & tools
 
 <p align="center">
