@@ -12,10 +12,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
-
-<br>
-
 ## 🖥️ langs & tools
 
 <p align="center">
