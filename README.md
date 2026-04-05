@@ -2,7 +2,7 @@
 😸 im stiyhood — call me tea  
 👾 making a 2d metroidvania  
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=stiyhood&show_icons=true&theme=tokyonight)
 
 ## 🖥️ langs & tools
 
