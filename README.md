@@ -8,14 +8,6 @@
 
 <br>
 
-<p align="center">
-  😸 im stiyhood — call me tea<br>
-  👾 i make/play/love games<br>
-  🌙 currently building a metroidvania
-</p>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
 
 <br>
