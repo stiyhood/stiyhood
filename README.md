@@ -1,9 +1,8 @@
 # 😻 hi!
-😸 im stiyhood, call me tea  
-👾 currently making a 2d metroidvania  
-🫥 that's all ;)
+😸 im stiyhood — call me tea  
+👾 making a 2d metroidvania  
 
----
+![stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight)
 
 ## 🖥️ langs & tools
 
