@@ -1,11 +1,9 @@
-# 😻 hi!
-😸 im stiyhood — call me tea  
-👾 making a 2d metroidvania  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi+i'm+tea+%3A);game+dev+%2F%2F+low+level;making+a+metroidvania..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+tea+%3A);game+dev+%2F%2F;making+a+metroidvania..." />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=2"/>
 ## 🖥️ langs & tools
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=100&section=footer"/>
 <p align="center">
 
 <img src="https://img.shields.io/badge/c-1A1B27?style=for-the-badge&logo=c&logoColor=CBA6F7" />
