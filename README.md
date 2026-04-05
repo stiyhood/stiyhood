@@ -1,3 +1,7 @@
+![profile views](https://komarev.com/ghpvc/?username=stiyhood&color=CBA6F7&style=flat-square)
+![focus](https://img.shields.io/badge/focus-game_dev-1A1B27?style=for-the-badge&logoColor=CBA6F7)
+![engine](https://img.shields.io/badge/engine-godot-1A1B27?style=for-the-badge&logoColor=CBA6F7)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+tea+%3A);game+dev+%2F%2F;making+a+metroidvania..." />
 </p>
