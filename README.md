@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+tea+%3A);game+dev+%2F%2F;making+a+metroidvania..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+tea+%3A);game+dev+<3;making+a+metroidvania..." />
 </p>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=4"/>
