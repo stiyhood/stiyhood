@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+tea+%3A);game+dev+<3;making+a+metroidvania...;i+use+arch+btw" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CBA6F7&center=true&vCenter=true&lines=hi!+i'm+miracle+%3A);amateur+game+dev+<3;making+a+metroidvania...;i+use+arch+btw" />
 </p>
 
 <br>
